@@ -87,6 +87,7 @@ a {
   font-size: clamp(1.6rem, 3.5vw, 2.5rem);
   line-height: 1.7;
   text-decoration: underline;
+  color: white;
 }
 
 a:hover {
