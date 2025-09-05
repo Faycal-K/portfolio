@@ -118,9 +118,9 @@ nav {
   position: sticky;
   justify-content: space-evenly;
   padding: clamp(1rem, calc(2vw + 0.1rem), 3rem);
-  border-bottom: 3px solid rgb(255, 254, 254);
+  border-bottom: 5px solid rgb(146, 237, 255);
   top: 0;
-  background-color: #385170;
+  background-color: #09213f;
 }
 
 /* cards in main */
